@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Yogesh-Oza/demo345.git/static/css/main.f33fa875.css",
+    "main.js": "/Yogesh-Oza/demo345.git/static/js/main.450f6e85.js",
+    "static/js/512.f765f593.chunk.js": "/Yogesh-Oza/demo345.git/static/js/512.f765f593.chunk.js",
+    "static/media/slick.svg": "/Yogesh-Oza/demo345.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Yogesh-Oza/demo345.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Yogesh-Oza/demo345.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Yogesh-Oza/demo345.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Yogesh-Oza/demo345.git/index.html",
+    "main.f33fa875.css.map": "/Yogesh-Oza/demo345.git/static/css/main.f33fa875.css.map",
+    "main.450f6e85.js.map": "/Yogesh-Oza/demo345.git/static/js/main.450f6e85.js.map",
+    "512.f765f593.chunk.js.map": "/Yogesh-Oza/demo345.git/static/js/512.f765f593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f33fa875.css",
+    "static/js/main.450f6e85.js"
+  ]
+}
